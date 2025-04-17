@@ -2,6 +2,12 @@
 
 记录我在前端学习过程中的笔记与易错点总结，涵盖 HTML、CSS、JavaScript、Vue、Ajax、Webpack 等内容，持续更新中。
 
+### 部分内容展示：
+
+<img src="./img/内容1.png">
+
+<img src="./img/内容2.png">
+
 📌 仓库结构：
 
 -  **HTML & CSS 易错点整理 ✨**
