@@ -4,9 +4,9 @@
 
 ### 部分内容展示：
 
-<img src="./img/内容1.png">
+![内容1.png](https://i.111666.best/image/go3mEPE0IwOGWUyPpkdtio.png)
 
-<img src="./img/内容2.png">
+![内容2.png](https://i.111666.best/image/DsG9EPuMF7l1b19Mb2gwan.png)
 
 📌 仓库结构：
 
